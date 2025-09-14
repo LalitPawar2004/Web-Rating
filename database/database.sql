@@ -1,4 +1,4 @@
--- Create database
+-- Paste database MySQL Workbench and change with your DB password
 CREATE DATABASE IF NOT EXISTS auth_db;
 USE auth_db;
 
